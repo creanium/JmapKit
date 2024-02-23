@@ -1,2 +1,2 @@
 # jmap-csharp
-.NET/CSharp library to provide support for interacting with JMAP endpoints
+.NET/CSharp client library to provide support for interacting with JMAP servers.
