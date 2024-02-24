@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JmapKit", "JmapKit\JmapKit.csproj", "{3DD2540A-2974-4D18-9812-EB17DCE52C2B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JmapKit", "src\JmapKit\JmapKit.csproj", "{3DD2540A-2974-4D18-9812-EB17DCE52C2B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{A5684C1C-9752-48D7-861D-C74E343C760C}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
